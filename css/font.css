@@ -1,0 +1,9 @@
+@font-face{
+    font-family: '1';
+    font-display: swap;
+    src: url('../font/1.ttf') format("truetype");
+}
+
+body {
+    font-family: '1' ;
+}
